@@ -1,4 +1,4 @@
-![https://github.com/Jguan10/Public-Facilities-and-District-Income/blob/main/Dash.png]
+![https://github.com/Jguan10/Public-Facilities-and-District-Income/blob/main/Dash.png](https://github.com/Jguan10/Public-Facilities-and-District-Income/blob/main/Dash.png)
 
 # Public-Facilities-and-District-Income
 
